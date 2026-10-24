@@ -37,5 +37,6 @@ A solução foi construída utilizando as tecnologias de **Prototipagem de Inter
 - **JavaScript (Vanilla):** Interatividade do formulário e manipulação de dados locais.
 
 
+
 ---
 <p align="center">Desenvolvido com 💚 para um futuro mais sustentável.</p>
