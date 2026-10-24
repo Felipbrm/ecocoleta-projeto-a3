@@ -36,8 +36,6 @@ A solução foi construída utilizando as tecnologias de **Prototipagem de Inter
 - **CSS3:** Estilização com Flexbox e design responsivo.
 - **JavaScript (Vanilla):** Interatividade do formulário e manipulação de dados locais.
 
-## 👥 Equipa de Desenvolvimento
-- **Felipe Ribeiro Gomes** 
-- **Nicolas Augusto Alburquerque dos Santos** 
+
 ---
 <p align="center">Desenvolvido com 💚 para um futuro mais sustentável.</p>
