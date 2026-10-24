@@ -21,28 +21,9 @@ Este trabalho responde diretamente aos **Objetivos de Desenvolvimento Sustentáv
 - **ODS 12:** Consumo e Produção Responsáveis.
 
 ## 🔗 Demonstração ao Vivo
-Pode aceder à aplicação a funcionar diretamente através do link abaixo (GitHub Pages):
-👉 **[CLIQUE AQUI PARA ACEDER AO ECOCOLETA]([https://Felipbrm.github.io/ecocoleta])
-
+Aceda à aplicação a funcionar diretamente através do link abaixo (GitHub Pages):
+👉 **[CLIQUE AQUI PARA ACEDER AO ECOCOLETA](https://Felipbrm.github.io/ecocoleta)**
 
 ## ✨ Funcionalidades
 - 📍 **Agendamento Rápido:** Formulário dinâmico para agendar recolha de materiais na morada do utilizador.
-- ♻️ **Categorização de Resíduos:** Opções para Plásticos, Eletrónicos e Óleo de Cozinha.
-- 📱 **Interface Responsiva e UX:** Design centrado na Experiência do Utilizador (UX), com paleta de cores sustentável e navegação intuitiva.
-- ⚡ **Processamento em Tempo Real:** Manipulação do DOM com JavaScript para exibir as recolhas agendadas instantaneamente.
-
-## 🛠️ Tecnologias Utilizadas
-A solução foi construída utilizando as tecnologias de **Prototipagem de Interfaces (UX)** e Web Core:
-- **HTML5:** Estrutura semântica.
-- **CSS3:** Estilização com Flexbox e design responsivo.
-- **JavaScript (Vanilla):** Interatividade do formulário e manipulação de dados locais.
-
-## 👥 Equipa de Desenvolvimento
-- **[O Seu Nome]** - RA: XXXXXX
-- **[Nome do Aluno 2]** - RA: XXXXXX
-- **[Nome do Aluno 3]** - RA: XXXXXX
-- **[Nome do Aluno 4]** - RA: XXXXXX
-- **[Nome do Aluno 5]** - RA: XXXXXX
-
----
-<p align="center">Desenvolvido com 💚 para um futuro mais sustentável.</p>
+- ♻️ **Categorização de Resíduos:** Opções para Plásticos, Eletr
