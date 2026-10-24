@@ -22,7 +22,7 @@ Este trabalho responde diretamente aos **Objetivos de Desenvolvimento Sustentáv
 
 ## 🔗 Demonstração ao Vivo
 Pode aceder à aplicação a funcionar diretamente através do link abaixo (GitHub Pages):
-👉 **[CLIQUE AQUI PARA ACEDER AO ECOCOLETA](https://www.google.com/search?q=https://Felipbrm.github.io/ecocoleta)
+👉 **[CLIQUE AQUI PARA ACEDER AO ECOCOLETA]([https://Felipbrm.github.io/ecocoleta])
 
 
 ## ✨ Funcionalidades
